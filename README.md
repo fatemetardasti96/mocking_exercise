@@ -1,6 +1,6 @@
 # How to Run
 ```
-install pytest
+pip install pytest
 
 python3 -m pytest tests
 ```
